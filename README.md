@@ -6,4 +6,4 @@
 
 ## 📬 How to reach me:
 - 📸 Instagram: [@arshiya01_bagheri](https://instagram.com/arshiya01_bagheri)
-- ✈️ Telegram: [@Ast_ro_X](https://t.me/Ast_ro_X)
+- ✈️ Telegram: [@ArshiyaBagheri](https://t.me/Ast_ro_X)
