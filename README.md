@@ -27,7 +27,7 @@
 
 <!-- Activity Graph -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/arshiya-bagheri">
     <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=arshiya-bagheri&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a> 
@@ -44,5 +44,5 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arshiya-bagheri&layout=compact&theme=onedark&hide_border=true" />
     </td>
   </tr>
-</table>
+</table> -->
 
